@@ -1,0 +1,41 @@
+# Obsidian local settings and cache
+.obsidian/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules (if used)
+node_modules/
+npm-debug.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups
+*.bak
+*~
+
+# OS files
+Thumbs.db
+desktop.ini

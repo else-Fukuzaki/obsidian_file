@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776131964819-1aust9506",
+  "providerId": "claude",
+  "title": "Greet in Japanese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776131964824,
+  "updatedAt": 1776135154186,
+  "lastResponseAt": 1776135154186,
+  "sessionId": "fb0d3990-8966-4988-aba7-7d365a29aaaf",
+  "providerState": {
+    "providerSessionId": "fb0d3990-8966-4988-aba7-7d365a29aaaf"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1119,
+    "cacheReadInputTokens": 54269,
+    "contextWindow": 200000,
+    "contextTokens": 55398,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}
